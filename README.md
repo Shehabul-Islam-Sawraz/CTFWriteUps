@@ -30,6 +30,7 @@ I've also included a list of **CTF resources** as well as a comprehensive **chea
   * [Tools for Solving CTF Challenges](#tools-for-solving-ctf-challenges)
     + [Attacks](#attacks)
     + [Bruteforcers](#bruteforcers)
+    + [Esoteric Languages](#esoteric-languages)
     + [Cryptography](#crypto-1)
     + [Exploits](#exploits)
     + [Forensics](#forensics)
@@ -389,11 +390,23 @@ More introductory CTFs
 - [Patator](https://github.com/lanjelot/patator) - Patator is a multi-purpose brute-forcer, with a modular design.
 - [Turbo Intruder](https://portswigger.net/research/turbo-intruder-embracing-the-billion-request-attack) - Burp Suite extension for sending large numbers of HTTP requests 
 
+## Esoteric Languages
+
+- [Brainfuck](https://copy.sh/brainfuck/) - Brainfuck esoteric programming language IDE.
+- [COW](https://frank-buss.de/cow.html) - It is a Brainfuck variant designed humorously with Bovinae in mind.
+- [Malbolge](http://www.malbolge.doleczek.pl/) - Malbolge esoteric programming language solver.
+- [Ook!](https://www.dcode.fr/ook-language) - Tool for decoding / encoding in Ook!
+- [Piet](https://www.bertnase.de/npiet/npiet-execute.php) - Piet programming language compiler.
+- [Rockstar](https://codewithrockstar.com/online) - A language intended to look like song lyrics.
+- [Try It Online](https://tio.run/) - An online tool that has a ton of Esoteric language interpreters.
+
 ## Exploits
 
 *Tools used for solving Exploits challenges*
 
+- [afl](https://lcamtuf.coredump.cx/afl/) - Security-oriented fuzzer.
 - [DLLInjector](https://github.com/OpenSecurityResearch/dllinjector) - Inject dlls in processes.
+- [honggfuzz](https://github.com/google/honggfuzz) - Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage.
 - [libformatstr](https://github.com/hellman/libformatstr) - Simplify format string exploitation.
 - [Metasploit](http://www.metasploit.com/) - Penetration testing software.
   - [Cheatsheet](https://www.comparitech.com/net-admin/metasploit-cheat-sheet/)
@@ -402,28 +415,36 @@ More introductory CTFs
 - [Pwntools](https://github.com/Gallopsled/pwntools) - CTF Framework for writing exploits.
 - [Qira](https://github.com/BinaryAnalysisPlatform/qira) - QEMU Interactive Runtime Analyser.
 - [ROP Gadget](https://github.com/JonathanSalwan/ROPgadget) - Framework for ROP exploitation.
+- [Ropper](https://github.com/sashs/Ropper) - Display information about files in different file formats and find gadgets to build rop chains for different architectures.
+- [Shellcodes Database](http://shell-storm.org/shellcode/) - A massive shellcodes database.
 - [V0lt](https://github.com/P1kachu/v0lt) - Security CTF Toolkit.
 
 ## Forensics
 
 *Tools used for solving Forensics challenges*
 
+- [Autopsy](https://www.autopsy.com/) - End-to-end open source digital forensics platform.
 - [Aircrack-Ng](http://www.aircrack-ng.org/) - Crack 802.11 WEP and WPA-PSK keys.
   - `apt-get install aircrack-ng`
 - [Audacity](http://sourceforge.net/projects/audacity/) - Analyze sound files (mp3, m4a, whatever).
   - `apt-get install audacity`
+- [Binwalk](https://github.com/devttys0/binwalk) - Firmware Analysis Tool.
 - [Bkhive and Samdump2](http://sourceforge.net/projects/ophcrack/files/samdump2/) - Dump SYSTEM and SAM files.
   - `apt-get install samdump2 bkhive`
+- [Bulk-extractor](https://github.com/simsong/bulk_extractor) - High-performance digital forensics exploitation tool.
 - [CFF Explorer](http://www.ntcore.com/exsuite.php) - PE Editor.
+- [ChromeCacheView](https://www.nirsoft.net/utils/chrome_cache_view.html) - Small utility that reads the cache folder of Google Chrome Web browser, and displays the list of all files currently stored in the cache.
 - [Creddump](https://github.com/moyix/creddump) - Dump windows credentials.
 - [DVCS Ripper](https://github.com/kost/dvcs-ripper) - Rips web accessible (distributed) version control systems.
 - [Exif Tool](http://www.sno.phy.queensu.ca/~phil/exiftool/) - Read, write and edit file metadata.
 - [Extundelete](http://extundelete.sourceforge.net/) - Used for recovering lost data from mountable images.
 - [Fibratus](https://github.com/rabbitstack/fibratus) - Tool for exploration and tracing of the Windows kernel.
+- [firmware-mod-kit](https://code.google.com/archive/p/firmware-mod-kit/) - Modify firmware images without recompiling.
 - [Foremost](http://foremost.sourceforge.net/) - Extract particular kind of files using headers.
   - `apt-get install foremost`
 - [Fsck.ext4](http://linux.die.net/man/8/fsck.ext3) - Used to fix corrupt filesystems.
 - [Malzilla](http://malzilla.sourceforge.net/) - Malware hunting tool.
+- [MZCacheView](https://www.nirsoft.net/utils/mozilla_cache_viewer.html) - Small utility that reads the cache folder of Firefox/Mozilla/Netscape Web browsers, and displays the list of all files currently stored in the cache.
 - [NetworkMiner](http://www.netresec.com/?page=NetworkMiner) - Network Forensic Analysis Tool.
 - [PDF Streams Inflater](http://malzilla.sourceforge.net/downloads.html) - Find and extract zlib files compressed in PDF files.
 - [Pngcheck](http://www.libpng.org/pub/png/apps/pngcheck.html) - Verifies the integrity of PNG and dump all of the chunk-level information in human-readable form.
@@ -434,6 +455,7 @@ More introductory CTFs
 - [USBRip](https://github.com/snovvcrash/usbrip) - Simple CLI forensics tool for tracking USB device artifacts (history of USB events) on GNU/Linux.
 - [Volatility](https://github.com/volatilityfoundation/volatility) - To investigate memory dumps.
 - [Wireshark](https://www.wireshark.org) - Used to analyze pcap or pcapng files
+- [X-Ways](https://www.x-ways.net/forensics/index-m.html) - Advanced work environment for computer forensic examiners.
 
 *Registry Viewers*
 - [OfflineRegistryView](https://www.nirsoft.net/utils/offline_registry_view.html) - Simple tool for Windows that allows you to read offline Registry files from external drive and view the desired Registry key in .reg file format.
@@ -513,24 +535,34 @@ More introductory CTFs
 *Tools used for solving Steganography challenges*
 
 - [AperiSolve](https://aperisolve.fr/) - Aperi'Solve is a platform which performs layer analysis on image (open-source).
+- [BPStegano](https://github.com/TapanSoni/BPStegano) - Python3 based LSB steganography. 
 - [Convert](http://www.imagemagick.org/script/convert.php) - Convert images b/w formats and apply filters.
+- [DTMF Tones](http://dialabc.com/sound/detect/index.html) - Audio frequencies common to a phone button.
 - [Exif](http://manpages.ubuntu.com/manpages/trusty/man1/exif.1.html) - Shows EXIF information in JPEG files.
 - [Exiftool](https://linux.die.net/man/1/exiftool) - Read and write meta information in files.
 - [Exiv2](http://www.exiv2.org/manpage.html) - Image metadata manipulation tool.
+- [hipshot](https://bitbucket.org/eliteraspberries/hipshot/src/master/) - Tool to converts a video file or series of photographs into a single image simulating a long-exposure photograph.
 - [Image Steganography](https://sourceforge.net/projects/image-steg/) - Embeds text and files in images with optional encryption. Easy-to-use UI.
 - [Image Steganography Online](https://incoherency.co.uk/image-steganography) - This is a client-side Javascript tool to steganographically hide images inside the lower "bits" of other images
 - [ImageMagick](http://www.imagemagick.org/script/index.php) - Tool for manipulating images.
 - [Outguess](https://www.freebsd.org/cgi/man.cgi?query=outguess+&apropos=0&sektion=0&manpath=FreeBSD+Ports+5.1-RELEASE&format=html) - Universal steganographic tool.
+- [Pngcheck](http://www.libpng.org/pub/png/apps/pngcheck.html) - Verifies the integrity of PNG and dump all of the chunk-level information in human-readable form.
 - [Pngtools](https://packages.debian.org/sid/pngtools) - For various analysis related to PNGs.
   - `apt-get install pngtools`
 - [SmartDeblur](https://github.com/Y-Vladimir/SmartDeblur) - Used to deblur and fix defocused images.
+- [Snow](https://sbmlabs.com/notes/snow_whitespace_steganography_tool) - Whitespace Steganography Tool
+- [Sonic Visualizer](https://www.sonicvisualiser.org/) - Audio file visualization.
 - [Steganabara](https://www.openhub.net/p/steganabara) -  Tool for stegano analysis written in Java.
-- [SteganographyOnline](https://stylesuxx.github.io/steganography/) - Online steganography encoder and decoder.
+- [Steganography Online](https://stylesuxx.github.io/steganography/) - Online steganography encoder and decoder.
 - [Stegbreak](https://linux.die.net/man/1/stegbreak) - Launches brute-force dictionary attacks on JPG image.
 - [StegCracker](https://github.com/Paradoxis/StegCracker) - Steganography brute-force utility to uncover hidden data inside files.
 - [stegextract](https://github.com/evyatarmeged/stegextract) - Detect hidden files and text in images.
 - [Steghide](http://steghide.sourceforge.net/) - Hide data in various kind of images.
 - [StegOnline](https://georgeom.net/StegOnline/upload) - Conduct a wide range of image steganography operations, such as concealing/revealing files hidden within bits (open-source).
+- [Stegosaurus](https://github.com/AngelKitty/stegosaurus) - A steganography tool for embedding payloads within Python bytecode.
+- [StegoVeritas](https://github.com/bannsec/stegoVeritas) - Yet another stego tool.
+- [Stegseek](https://github.com/RickdeJager/stegseek) - Lightning fast steghide cracker that can be used to extract hidden data from files. 
+- [Stegsnow](https://manpages.ubuntu.com/manpages/trusty/man1/stegsnow.1.html) - Whitespace steganography program.
 - [Stegsolve](http://www.caesum.com/handbook/Stegsolve.jar) - Apply various steganography techniques to images.
 - [Zsteg](https://github.com/zed-0xff/zsteg/) - PNG/BMP analysis.
 
