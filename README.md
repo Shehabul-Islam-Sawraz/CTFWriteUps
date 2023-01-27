@@ -134,7 +134,7 @@ I've also included a list of **CTF resources** as well as a comprehensive **chea
     - Very advanced and assumes a bit of cs background knowledge
     
 
-**I've also made some playlists of diff topics**
+**I've also collected some playlists of different topics**
 
 [Pwn](https://www.youtube.com/playlist?list=PLwP8RAsXLdE7rmCJsnhSigSdxsgIGFfvx)
 
@@ -1370,9 +1370,22 @@ print(flag)
 # WriteUps
 ## Cryptography
 
-|      Challenge Name        |               CTF               | Difficulty        |
-|----------------------------|---------------------------------|-------------------|
-| Valhalla                   | 2021 - ShadowCTF                | Easy              |
+|          Challenge Name           |               CTF               | Difficulty        |
+|-----------------------------------|---------------------------------|-------------------|
+| Adventurous R&M                   | 2023 - Intra BUET CTF           | Easy              |
+| Asobu Ka Shinu                    | 2023 - Intra BUET CTF           | Easy              |
+| Bang with Music                   | 2023 - Intra BUET CTF           | Easy              |
+| Kaun Hain Ye Log                  | 2023 - Intra BUET CTF           | Easy-Medium       |
+| Monk                              | 2021 - ShadowCTF                | Easy              |
+| Substitution                      | 2023 - Intra BUET CTF           | Easy              |
+| Valhalla                          | 2021 - ShadowCTF                | Easy              |
+| What are Semaphores processes     | 2021 - ShadowCTF                | Easy              |
+
+## Reverse Engineering
+
+|      Challenge Name               |               CTF               | Difficulty        |
+|-----------------------------------|---------------------------------|-------------------|
+| Thirsty_Crow                      | 2021 - ShadowCTF                | Difficult         |
 
 # Notes
 * TOC generated with [ecotrust-canada](https://github.com/jonschlinkert/markdown-toc)
