@@ -1,4 +1,5 @@
 # Bug Bounty Tools 
+######*A bug bounty program, also called a vulnerability rewards program (VRP), is a crowdsourcing initiative that rewards individuals for discovering and reporting software bugs.*
 > A curated list of various bug bounty tools
 
 ## Contents
