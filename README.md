@@ -7,10 +7,10 @@ Some categories here will also not match what is on the challenge solution READM
 I've also included a list of **CTF resources** as well as a comprehensive **cheat sheet** covering tons of common CTF challenges.
 
 # Table of Contents
-- **[WriteUps](../CTFWriteUps/CTF_Problems_List_by_Difficulty/)**
-  * [Easy Problems](../CTFWriteUps/CTF_Problems_List_by_Difficulty/Difficulty_Easy/README.md)
-  * [Medium Problems](../CTFWriteUps/CTF_Problems_List_by_Difficulty/Difficulty_Medium/README.md)
-  * [Hard Problems](../CTFWriteUps/CTF_Problems_List_by_Difficulty/Difficulty_Hard/README.md)
+- **[WriteUps](CTF_Problems_List_by_Difficulty/)**
+  * [Easy Problems](CTF_Problems_List_by_Difficulty/Difficulty_Easy/README.md)
+  * [Medium Problems](CTF_Problems_List_by_Difficulty/Difficulty_Medium/README.md)
+  * [Hard Problems](CTF_Problems_List_by_Difficulty/Difficulty_Hard/README.md)
 - **[Resources](#resources)**
   * [YouTube (We love video resources)](#youtube-we-love-video-resources)
   * [Practice / Learning Sites](#practice--learning-sites)
