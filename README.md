@@ -7,8 +7,10 @@ Some categories here will also not match what is on the challenge solution READM
 I've also included a list of **CTF resources** as well as a comprehensive **cheat sheet** covering tons of common CTF challenges.
 
 # Table of Contents
-- **[WriteUps](#writeups)**
-  * [Cryptography](#cryptography)
+- **[WriteUps](../CTFWriteUps/CTF_Problems_List_by_Difficulty/)**
+  * [Easy Problems](../CTFWriteUps/CTF_Problems_List_by_Difficulty/Difficulty_Easy/README.md)
+  * [Medium Problems](../CTFWriteUps/CTF_Problems_List_by_Difficulty/Difficulty_Medium/README.md)
+  * [Hard Problems](../CTFWriteUps/CTF_Problems_List_by_Difficulty/Difficulty_Hard/README.md)
 - **[Resources](#resources)**
   * [YouTube (We love video resources)](#youtube-we-love-video-resources)
   * [Practice / Learning Sites](#practice--learning-sites)
@@ -1370,22 +1372,22 @@ print(flag)
 # WriteUps
 ## Cryptography
 
-|          Challenge Name           |               CTF               | Difficulty        |
-|-----------------------------------|---------------------------------|-------------------|
-| Adventurous R&M                   | 2023 - Intra BUET CTF           | Easy              |
-| Asobu Ka Shinu                    | 2023 - Intra BUET CTF           | Easy              |
-| Bang with Music                   | 2023 - Intra BUET CTF           | Easy              |
-| Kaun Hain Ye Log                  | 2023 - Intra BUET CTF           | Easy-Medium       |
-| Monk                              | 2021 - ShadowCTF                | Easy              |
-| Substitution                      | 2023 - Intra BUET CTF           | Easy              |
-| Valhalla                          | 2021 - ShadowCTF                | Easy              |
-| What are Semaphores processes     | 2021 - ShadowCTF                | Easy              |
+| Challenge Name                | CTF                   | Difficulty  |
+| ----------------------------- | --------------------- | ----------- |
+| Adventurous R&M               | 2023 - Intra BUET CTF | Easy        |
+| Asobu Ka Shinu                | 2023 - Intra BUET CTF | Easy        |
+| Bang with Music               | 2023 - Intra BUET CTF | Easy        |
+| Kaun Hain Ye Log              | 2023 - Intra BUET CTF | Easy-Medium |
+| Monk                          | 2021 - ShadowCTF      | Easy        |
+| Substitution                  | 2023 - Intra BUET CTF | Easy        |
+| Valhalla                      | 2021 - ShadowCTF      | Easy        |
+| What are Semaphores processes | 2021 - ShadowCTF      | Easy        |
 
 ## Reverse Engineering
 
-|      Challenge Name               |               CTF               | Difficulty        |
-|-----------------------------------|---------------------------------|-------------------|
-| Thirsty_Crow                      | 2021 - ShadowCTF                | Difficult         |
+| Challenge Name | CTF              | Difficulty |
+| -------------- | ---------------- | ---------- |
+| Thirsty_Crow   | 2021 - ShadowCTF | Difficult  |
 
 # Notes
 * TOC generated with [ecotrust-canada](https://github.com/jonschlinkert/markdown-toc)
