@@ -1369,25 +1369,5 @@ print(flag)
 - View CNC GCode
     - [https://ncviewer.com/](https://ncviewer.com/)
 
-# WriteUps
-## Cryptography
-
-| Challenge Name                | CTF                   | Difficulty  |
-| ----------------------------- | --------------------- | ----------- |
-| Adventurous R&M               | 2023 - Intra BUET CTF | Easy        |
-| Asobu Ka Shinu                | 2023 - Intra BUET CTF | Easy        |
-| Bang with Music               | 2023 - Intra BUET CTF | Easy        |
-| Kaun Hain Ye Log              | 2023 - Intra BUET CTF | Easy-Medium |
-| Monk                          | 2021 - ShadowCTF      | Easy        |
-| Substitution                  | 2023 - Intra BUET CTF | Easy        |
-| Valhalla                      | 2021 - ShadowCTF      | Easy        |
-| What are Semaphores processes | 2021 - ShadowCTF      | Easy        |
-
-## Reverse Engineering
-
-| Challenge Name | CTF              | Difficulty |
-| -------------- | ---------------- | ---------- |
-| Thirsty_Crow   | 2021 - ShadowCTF | Difficult  |
-
 # Notes
 * TOC generated with [ecotrust-canada](https://github.com/jonschlinkert/markdown-toc)
