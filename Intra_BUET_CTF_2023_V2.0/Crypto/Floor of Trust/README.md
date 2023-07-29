@@ -38,15 +38,6 @@ Based on our intelligence, it appears that [new_cipher.py](./new_cipher.py) was 
 
 ---
 
-<!-- + Reading the description carefully, I see that a hint was given as **`False Bill`**.
-+ So I searched for `False Bill Cipher`, and found the following: 
-
-![runes](./Photos/image-25.png)
-
-+ I also went to a decoder for the `FALSS BILL CIPHER DECODER` and got this (https://www.dcode.fr/gravity-falls-bill-cipher)
-
-![solve](./Photos/solve.PNG) -->
-
 The function which was used to encrypt a message was:
 ```python
 def encrypt_message(message, key):
