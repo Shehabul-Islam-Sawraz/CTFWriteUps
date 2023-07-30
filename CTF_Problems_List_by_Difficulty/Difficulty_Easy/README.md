@@ -30,14 +30,18 @@
 
 ## Forensics
 
-| Challenge Name          | CTF                   | Difficulty  |
-| ----------------------- | --------------------- | ----------- |
-| Bad Friend              | 2023 - Intra BUET CTF | Easy        |
-| Cutu Cat                | 2023 - Intra BUET CTF | Easy        |
-| DocScan                 | 2023 - Intra BUET CTF | Easy        |
-| Just Engineering Things | 2023 - Intra BUET CTF | Very Easy   |
-| Lottery Ticket          | 2023 - Intra BUET CTF | Easy-Medium |
-| Work! Work!!!           | 2023 - Intra BUET CTF | Very Easy   |
+| Challenge Name          | CTF                        | Difficulty  |
+| ----------------------- | -------------------------- | ----------- |
+| Bad Friend              | 2023 - Intra BUET CTF      | Easy        |
+| Cutu Cat                | 2023 - Intra BUET CTF      | Easy        |
+| DocScan                 | 2023 - Intra BUET CTF      | Easy        |
+| Just Engineering Things | 2023 - Intra BUET CTF      | Very Easy   |
+| Lottery Ticket          | 2023 - Intra BUET CTF      | Easy-Medium |
+| Work! Work!!!           | 2023 - Intra BUET CTF      | Very Easy   |
+| A Thousand Pictures     | 2023 - Intra BUET CTF V2.0 | Very Easy   |
+| 50 Shades of Grey       | 2023 - Intra BUET CTF V2.0 | Easy        |
+| SubPixel                | 2023 - Intra BUET CTF V2.0 | Easy        |
+| Trolled                 | 2023 - Intra BUET CTF V2.0 | Easy-Medium |
 
 ## Miscellaneous
 

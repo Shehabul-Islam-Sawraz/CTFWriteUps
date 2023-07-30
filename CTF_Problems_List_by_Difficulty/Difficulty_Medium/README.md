@@ -3,6 +3,7 @@
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Cryptography](#cryptography)
+- [Forensics](#forensics)
 - [Miscellaneous](#miscellaneous)
 - [Reverse Engineering](#reverse-engineering)
 
@@ -13,6 +14,12 @@
 | Bigger RSA     | 2023 - Intra BUET CTF V2.0 | Medium     |
 | SleepzzZZZZ    | 2023 - Intra BUET CTF V2.0 | Medium     |
 | XOR is Fun     | 2023 - Intra BUET CTF V2.0 | Medium     |
+
+## Forensics
+
+| Challenge Name | CTF                        | Difficulty |
+| -------------- | -------------------------- | ---------- |
+| Hamza Face Pic | 2023 - Intra BUET CTF V2.0 | Medium     |
 
 ## Miscellaneous
 
