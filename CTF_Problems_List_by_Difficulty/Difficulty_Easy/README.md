@@ -11,16 +11,22 @@
 
 ## Cryptography
 
-| Challenge Name                | CTF                   | Difficulty  |
-| ----------------------------- | --------------------- | ----------- |
-| Adventurous R&M               | 2023 - Intra BUET CTF | Easy        |
-| Asobu Ka Shinu                | 2023 - Intra BUET CTF | Easy        |
-| Bang with Music               | 2023 - Intra BUET CTF | Easy        |
-| Kaun Hain Ye Log              | 2023 - Intra BUET CTF | Easy-Medium |
-| Monk                          | 2021 - ShadowCTF      | Easy        |
-| Substitution                  | 2023 - Intra BUET CTF | Easy        |
-| Valhalla                      | 2021 - ShadowCTF      | Easy        |
-| What are Semaphores processes | 2021 - ShadowCTF      | Easy        |
+| Challenge Name                | CTF                        | Difficulty  |
+| ----------------------------- | -------------------------- | ----------- |
+| Adventurous R&M               | 2023 - Intra BUET CTF      | Easy        |
+| Asobu Ka Shinu                | 2023 - Intra BUET CTF      | Easy        |
+| Bang with Music               | 2023 - Intra BUET CTF      | Easy        |
+| Kaun Hain Ye Log              | 2023 - Intra BUET CTF      | Easy-Medium |
+| Monk                          | 2021 - ShadowCTF           | Easy        |
+| Substitution                  | 2023 - Intra BUET CTF      | Easy        |
+| Valhalla                      | 2021 - ShadowCTF           | Easy        |
+| What are Semaphores processes | 2021 - ShadowCTF           | Easy        |
+| EZ SymbolzZZ                  | 2023 - Intra BUET CTF V2.0 | Easy        |
+| Floor of Trust                | 2023 - Intra BUET CTF V2.0 | Easy-Medium |
+| Lost Treasure                 | 2023 - Intra BUET CTF V2.0 | Easy-Medium |
+| Railgun                       | 2023 - Intra BUET CTF V2.0 | Easy        |
+| Roman Dudes                   | 2023 - Intra BUET CTF V2.0 | Very Easy   |
+| Shift Me                      | 2023 - Intra BUET CTF V2.0 | Very Easy   |
 
 ## Forensics
 

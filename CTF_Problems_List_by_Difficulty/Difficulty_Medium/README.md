@@ -2,9 +2,17 @@
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Cryptography](#cryptography)
 - [Miscellaneous](#miscellaneous)
 - [Reverse Engineering](#reverse-engineering)
 
+## Cryptography
+
+| Challenge Name | CTF                        | Difficulty |
+| -------------- | -------------------------- | ---------- |
+| Bigger RSA     | 2023 - Intra BUET CTF V2.0 | Medium     |
+| SleepzzZZZZ    | 2023 - Intra BUET CTF V2.0 | Medium     |
+| XOR is Fun     | 2023 - Intra BUET CTF V2.0 | Medium     |
 
 ## Miscellaneous
 

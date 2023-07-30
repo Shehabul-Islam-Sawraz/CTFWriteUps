@@ -2,4 +2,11 @@
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Cryptography](#cryptography)
 
+
+## Cryptography
+
+| Challenge Name | CTF                        | Difficulty  |
+| -------------- | -------------------------- | ----------- |
+| Frequencies    | 2023 - Intra BUET CTF V2.0 | Medium-Hard |
