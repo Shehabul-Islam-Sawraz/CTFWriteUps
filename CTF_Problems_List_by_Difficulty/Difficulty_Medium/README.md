@@ -23,10 +23,11 @@
 
 ## Miscellaneous
 
-| Challenge Name | CTF                   | Difficulty |
-| -------------- | --------------------- | ---------- |
-| Granny Granny! | 2023 - Intra BUET CTF | Medium     |
-| JSON or Not!   | 2023 - Intra BUET CTF | Medium     |
+| Challenge Name | CTF                        | Difficulty |
+| -------------- | -------------------------- | ---------- |
+| Granny Granny! | 2023 - Intra BUET CTF      | Medium     |
+| JSON or Not!   | 2023 - Intra BUET CTF      | Medium     |
+| Ladder         | 2023 - Intra BUET CTF V2.0 | Medium     |
 
 ## Reverse Engineering
 

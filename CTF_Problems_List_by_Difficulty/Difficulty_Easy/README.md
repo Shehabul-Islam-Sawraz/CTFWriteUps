@@ -45,11 +45,14 @@
 
 ## Miscellaneous
 
-| Challenge Name | CTF                   | Difficulty  |
-| -------------- | --------------------- | ----------- |
-| A song         | 2023 - Intra BUET CTF | Easy        |
-| Corrupt        | 2023 - Intra BUET CTF | Very Easy   |
-| Mr.Regex       | 2023 - Intra BUET CTF | Easy-Medium |
+| Challenge Name     | CTF                        | Difficulty  |
+| ------------------ | -------------------------- | ----------- |
+| A song             | 2023 - Intra BUET CTF      | Easy        |
+| Corrupt            | 2023 - Intra BUET CTF      | Very Easy   |
+| Mr.Regex           | 2023 - Intra BUET CTF      | Easy-Medium |
+| Hijacked           | 2023 - Intra BUET CTF V2.0 | Very Easy   |
+| Lost Numbers       | 2023 - Intra BUET CTF V2.0 | Easy        |
+| What's on March 14 | 2023 - Intra BUET CTF V2.0 | Easy        |
 
 ## OSINT
 

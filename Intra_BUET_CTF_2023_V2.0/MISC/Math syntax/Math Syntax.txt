@@ -1,0 +1,27 @@
+One day you travel to an ancient village. There, you step into a school and find something weird in the 
+chalkboard:
+
+nadokalol * mekalal = nadokalkalol
+pekalol + mekalal = sakalal
+namekalal + fanamekalol = mekalal
+dokalkalol - namekalal = fanavodokalkalal
+namekalal * dokalol = fanamekalol * pekalol
+lokalal * mekalal = lokalkalal
+pekalol + pekalol + mekalal - lokalal = rekalol
+sakalkalal * pekalol = gokalkalkalol
+dokalol = sakalal + mekalal
+pekalol + pekalol - sakalal - mekalal = rekalol
+lokalal - pekalol = sakalal
+nadokalol * nalokalal = nafanavolokalkalkalol
+namekalal + namekalal = fanamekalol
+fanamekalol * mekalal = pekalol
+zokalal + pekalol = sakalkalal
+It appears that someone was counting in this system. They erased most of their writing. However, the following numbers were not erased, and are found in the following order with no lines in between them:
+
+lokalal
+nagokalol
+fanagokalal
+gokalol
+nazokalal
+fanazokalol
+zokalal

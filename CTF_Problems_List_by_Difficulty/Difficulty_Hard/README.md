@@ -3,6 +3,7 @@
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Cryptography](#cryptography)
+- [Miscellaneous](#miscellaneous)
 
 
 ## Cryptography
@@ -10,3 +11,11 @@
 | Challenge Name | CTF                        | Difficulty  |
 | -------------- | -------------------------- | ----------- |
 | Frequencies    | 2023 - Intra BUET CTF V2.0 | Medium-Hard |
+
+
+## Miscellaneous
+
+| Challenge Name | CTF                        | Difficulty |
+| -------------- | -------------------------- | ---------- |
+| Math Syntax    | 2023 - Intra BUET CTF V2.0 | Very Hard  |
+| Mini Game      | 2023 - Intra BUET CTF V2.0 | Very Hard  |
